@@ -12,5 +12,8 @@ The **U.S. healthcare industry** is undergoing significant transformation with *
 - **Hands-on Tutorials**: Analysis of **Electronic Health Record (EHR) data** from **MIMIC-III**
 - **Core Competencies**: Data analysis, natural language processing, visualization, AI applications
 
+## Assignments
+- [MIMIC Data Visualization](MIMIC_Data_Visualization/MIMIC_Data_Visualization.ipynb)
+
 ## **Contact**
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:jesusminjaresjr@utexas.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesusminjares) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4)
