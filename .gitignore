@@ -66,3 +66,6 @@ target/
 *.csv
 *.txt
 *.gz
+
+# MacOS
+.DS_Store
