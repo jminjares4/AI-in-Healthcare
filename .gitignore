@@ -69,3 +69,6 @@ target/
 
 # MacOS
 .DS_Store
+
+# Ignore MIMIC-IV data set
+mimic-iv-3.1/
